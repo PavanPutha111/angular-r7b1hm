@@ -1,0 +1,30 @@
+
+
+/*
+Copyright Google LLC. All Rights Reserved.
+Use of this source code is governed by an MIT-style license that
+can be found in the LICENSE file at https://angular.io/license
+*/
+
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.mob-table{
+  width: 800px;
+  padding: 20px 25px;
+  background-color: white;
+  margin: 30px 0;
+  border-radius:  3px;
+}
+
+.headers{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 30px;
+  background-color: rgb(183, 197, 61);
+  color:white;
+}
+
+th{
+  text-align: center;
+}
